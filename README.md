@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Benvenuti a SharingProject
 
-You can use the [editor on GitHub](https://github.com/MastrottiSoftware/SharingProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Questa repository verra' usata per collaborare nella realizzazione di un sitoweb richiesto come test finale al corso di Ingegneria Informatica, Sviluppo Applicazioni Web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MindShared
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Il sitoweb si chiamera' MindShared, e si focalizza sulla condivisione della conoscenza scolastica, e se leggi sei gay.
 
 ```markdown
 Syntax highlighted code block
