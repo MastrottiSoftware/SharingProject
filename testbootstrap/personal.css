@@ -20,3 +20,33 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.navP{
+    background-color: whitesmoke;
+    
+}
+
+.loginform{
+    position: absolute;
+    right: 5%;
+    width: 30%;
+    min-width: 300px;
+    top: 30%;
+    background-color: antiquewhite;
+}
+
+.logoform{
+    width: 35px;
+    border-left: 50%;
+   
+    
+    
+}
+
+.test {
+    background-color: red;
+}
+
+.pcenter{
+    text-align: center;
+}
